@@ -1,0 +1,119 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   C:\Program Files\Malwarebytes\Anti-Malware\MBAMWsc.exe C:\Program Files\Malwarebytes\Anti-Malware\MBAMWsc.exe
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+
+[MainWindowViewModel] - ExecuteRefresh Entered
+[MainWindowViewModel] - Setting Process Access Rights:
+	PROCESS_QUERY_INFORMATION
+	PROCESS_VM_READ
+[MainWindowViewModel] - Checking Processes for Mono
+	msedgewebview2.exe
+	svchost.exe
+	svchost.exe
+	nvcontainer.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	NVIDIA Overlay.exe
+	LenovoVantage-(VantageCoreAddin).exe
+	ctfmon.exe
+	XboxGameBarWidgets.exe
+	msedgewebview2.exe
+	ApplicationFrameHost.exe
+	RzDeviceManager.exe
+	unsecapp.exe
+    Error Getting User Process: svchost - Access is denied
+	audiodg.exe
+	msedgewebview2.exe
+    Error Getting User Process: MpDefenderCoreService - Access is denied
+	conhost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+    Error Getting User Process: services - Access is denied
+	atiesrxx.exe
+    Error Getting User Process: SecurityHealthService - Access is denied
+	RuntimeBroker.exe
+	RazerAppEngine.exe
+	svchost.exe
+    Error Getting User Process: csrss - Access is denied
+	CortexLauncherService.exe
+	LenovoVantage-(SmartDisplayAddin).exe
+	RuntimeBroker.exe
+	conhost.exe
+	svchost.exe
+	Locator.exe
+	steamwebhelper.exe
+	svchost.exe
+	svchost.exe
+	winlogon.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	explorer.exe
+	Discord.exe
+	svchost.exe
+	RuntimeBroker.exe
+	steamwebhelper.exe
+	unsecapp.exe
+	svchost.exe
+	RuntimeBroker.exe
+	svchost.exe
+	svchost.exe
+	LenovoVantage-(SmartNoiseCancelledAddin).exe
+	NVDisplay.Container.exe
+	HapticService.exe
+	RzIoTDeviceManager.exe
+	Razer Central.exe
+	Cloudflare WARP.exe
+	spoolsv.exe
+	steamwebhelper.exe
+    Error Getting User Process: svchost - Access is denied
+	GameBarPresenceWriter.exe
+	steamwebhelper.exe
+	conhost.exe
+	Discord.exe
+	nvcontainer.exe
+	svchost.exe
+	Discord.exe
+	svchost.exe
+	svchost.exe
+	VSHelper.exe
+	nvcontainer.exe
+    Error Getting User Process: svchost - Access is denied
+	svchost.exe
+	NVDisplay.Container.exe
+	AggregatorHost.exe
+	svchost.exe
+	jusched.exe
+	PresentMon-x64.exe
+	svchost.exe
+	svchost.exe
+	GameBar.exe
+	conhost.exe
+	cncmd.exe
+	svchost.exe
+	RzChromaConnectManager.exe
+	dllhost.exe
+	Discord.exe
+	NVIDIA Overlay.exe
+	atieclxx.exe
+	svchost.exe
+	msedgewebview2.exe
+	svchost.exe
+	NahimicAPO4Volume.exe
+	LockApp.exe
+	RazerAppEngine.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	unsecapp.exe
+	UnityCrashHandler64.exe
+	LenovoVantage-(LenovoServiceBridgeAddin).exe
+	svchost.exe
+	REPO.exe
+		Mono found in process: REPO.exe
+
+FINISHED SCANNING PROCESSES...
